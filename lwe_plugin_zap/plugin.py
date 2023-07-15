@@ -5,6 +5,9 @@ from langchain.utilities.zapier import ZapierNLAWrapper
 from lwe.core.plugin import Plugin
 
 class Zap(Plugin):
+    """
+    Send natural language commands to Zapier actions
+    """
 
     def incompatible_backends(self):
         return [
