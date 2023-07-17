@@ -9,11 +9,6 @@ class Zap(Plugin):
     Send natural language commands to Zapier actions
     """
 
-    def incompatible_backends(self):
-        return [
-            'browser',
-        ]
-
     def default_config(self):
         return {
             'agent': {
