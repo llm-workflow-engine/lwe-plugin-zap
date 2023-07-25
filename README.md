@@ -25,7 +25,7 @@ git clone https://github.com/llm-workflow-engine/lwe-plugin-zap.git
 Install the development package:
 
 ```bash
-cd llm-workflow-engine
+cd lwe-plugin-zap
 pip install -e .
 ```
 
