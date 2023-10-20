@@ -1,5 +1,11 @@
 # LLM Workflow Engine (LWE) Zap plugin
 
+## NOTE: DUE TO ZAPIER'S DECISION TO DISCONTINUE ITS NLA API, THIS PLUGIN NO LONGER WORKS.
+
+Per Zapier: "As of Friday, November 17, 2023, the NLA API will no longer be available for use."
+
+## Summary
+
 Zap plugin for [LLM Workflow Engine](https://github.com/llm-workflow-engine/llm-workflow-engine)
 
 Send natural language commands to Zapier actions: https://nla.zapier.com/get-started/
